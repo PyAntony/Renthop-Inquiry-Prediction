@@ -1,6 +1,6 @@
 # Rental Listing Inquiries Prediction
 
-For this project I worked on a Kaggle competition for Two Sigma’s portfolio company RentHop. Full walk-trough with code can be found in the **Rental Listing Inquiries Prediction.pdf** document.
+For this project I worked on a Kaggle competition for Two Sigma’s portfolio company RentHop. Full walk-trough with code can be found in the **Rental_Listing_Inquiries_Prediction.pdf** document.
 
 ## Overview:  
 
