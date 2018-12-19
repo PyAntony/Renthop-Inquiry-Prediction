@@ -70,3 +70,7 @@ I run 2 models: Random Forest again with Cross-Validation and Logistic Regressio
 ![pic10](https://github.com/PyAntony/Renthop-Inquiry-Prediction/blob/master/images2/pic10.png)  
 
 ### Conclusion
+
+I wanted to try so many other things but I had to stop due to time constraints. It is extremely time consuming to test new features, new models, new ensembles, etc. (no wonder people always team up to win these competitions). I was satisfied with my “above-70%” accuracy, while not impressive by any standard, at least it indicated that I didn’t make any gross mistake and I was on the right path. I gained a solid understanding of the machine learning project process and I am sure, given a few more days, I would have been able to greatly improve my score.
+
+All my respect to the top Kagglers, it is just and insane amount of work! :bow: 
